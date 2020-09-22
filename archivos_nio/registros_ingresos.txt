@@ -1,0 +1,7 @@
+Ingreso 1: 100
+Ingreso 2: 200
+Ingreso 3: 300
+Ingreso 4: 400
+Ingreso 5: 500
+Ingreso 6: 600
+Fin de los ingresos
